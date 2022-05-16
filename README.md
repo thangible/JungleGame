@@ -1,5 +1,7 @@
 JUNGLE-BOARDGAME
 
+Created by Maximiliam Münzen, Phuoc Thang Le and Anna-Maria Dickmann
+
 This project is about the implementation for the chinese boardgame jnugle, also called animal chess.
 
 Description:
